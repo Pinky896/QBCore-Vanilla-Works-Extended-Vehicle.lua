@@ -11,7 +11,7 @@ This is only for vehicles.lua in QBCore Shared.
         ['model'] = 'vwe_zr3801', <-- Change to model of vehicle
         ['price'] = 20000,   <-- Also change price to your liking
         ['category'] = 'compacts',   
-        ['categoryLabel'] = 'Compacts',   
+        ['categoryLabel'] = 'Compacts',  <-- Also all vehicles are set to compacts. Please change it if you see fit 
         ['hash'] = 'vwe_zr3801',   
         ['shop'] = 'pdm',  
     },
