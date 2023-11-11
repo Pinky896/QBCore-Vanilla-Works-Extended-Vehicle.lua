@@ -17,4 +17,4 @@ This is only for vehicles.lua in QBCore Shared.
     },
 ```
 
-# All Credits go to Everyone to contributed at Vanilla Works. 
+# All Credits go to Everyone that contributed at Vanilla Works. 
